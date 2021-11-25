@@ -1,0 +1,3 @@
+include ':CallToActionTextView'
+include ':app'
+rootProject.name = "CallToActionTextView"
