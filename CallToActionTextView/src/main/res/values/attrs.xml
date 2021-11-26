@@ -12,7 +12,7 @@
         <enum name="line" value="1"/>
     </attr>
 
-    <attr name="learnMoreTextView" format="reference"/>
+    <attr name="callToActionTextView" format="reference"/>
 
     <declare-styleable name="LearnMoreTextView">
         <attr name="actionText"/>

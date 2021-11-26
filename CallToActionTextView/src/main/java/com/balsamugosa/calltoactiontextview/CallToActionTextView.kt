@@ -13,10 +13,10 @@ import android.util.AttributeSet
 import android.view.View
 import androidx.appcompat.widget.AppCompatTextView
 
-class LearnMoreTextView @JvmOverloads constructor(
+class CallToActionTextView @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet,
-    defStyleAttr: Int = R.attr.learnMoreTextView
+    defStyleAttr: Int = R.attr.callToActionTextView
 ) : AppCompatTextView(context, attrs, defStyleAttr),
     View.OnClickListener {
 
